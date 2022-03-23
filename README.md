@@ -8,5 +8,5 @@ Integration jobs when code is pushed to https://github.com/juampynr/drupal8-gith
 The database is hosted at https://quay.io/repository/juampynr/drupal8-github-actions?tab=tags.
 Details on how to use and build this image are at [scripts/database/README.md](scripts/database/README.md).
 
-There is an one-line installer at https://github.com/Lullabot/drupal8ci#github-actions that
-places all the required files to run this workflow in your Drupal 8 project.
+There is an one-line installer at https://github.com/Lullabot/drupal9ci#github-actions that
+places all the required files to run this workflow in your Drupal 9 project.
